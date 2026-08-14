@@ -1,7 +1,3 @@
-Here is a complete, formal **Project Documentation Report** formatted specifically for Microsoft Word. 
-
-You can copy the text below and paste it directly into Microsoft Word. (Word will automatically format the headings, tables, bullet points, and code blocks).
-
 ---
 
 # PROJECT DOCUMENTATION REPORT
