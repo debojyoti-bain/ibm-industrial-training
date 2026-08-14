@@ -171,5 +171,3 @@ The **Smartphone Price Category Prediction System** successfully demonstrates th
 2. **Price Regression:** Expanding the classification model into a continuous regression model to predict exact Rupee values.
 3. **Ensemble Models:** Integrating Random Forest and XGBoost algorithms to further improve accuracy.
 
----
-**Report Compiled for:** IBM Industrial Training Evaluation  
