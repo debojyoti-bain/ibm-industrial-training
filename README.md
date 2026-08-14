@@ -173,4 +173,3 @@ The **Smartphone Price Category Prediction System** successfully demonstrates th
 
 ---
 **Report Compiled for:** IBM Industrial Training Evaluation  
-**Status:** Completed & Validated
